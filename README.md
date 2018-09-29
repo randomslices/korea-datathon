@@ -8,8 +8,9 @@ Welcome to [the korea datathon workshop](http://datathon.konect.or.kr/)!
 
 3. I am also uploading the [answers for today's workshop]().
 
-4. 
-* Here are list of useful links for people who want to have clearer understanding on MIMICiii data and SQL syntax.
+4. Here are the list of useful links for participants who wants to have clearer understanding on MIMICiii data and SQL syntax.
 * [MIMICiii schema visualisation with SchemaSpy](https://mit-lcp.github.io/mimic-schema-spy/relationships.html)
-* [Sqls and models used for Mornin's Echo project](https://github.com/Youngseok0001/korea-datathon/edit/master/README.md)
+* [Sqls and models used for Mornin's Echo project](https://github.com/nus-mornin-lab/echo-mimiciii)
+* [Official MIMIC github repo for code sharing](https://github.com/MIT-LCP/mimic-code)
+
 
