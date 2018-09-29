@@ -6,7 +6,7 @@ Welcome to [the korea datathon workshop](http://datathon.konect.or.kr/)!
 
 2. please start from the [Python colab](http://colab.research.google.com/github/Youngseok0001/korea-datathon/blob/master/mimiciii_tutorial.ipynb) (a copy is available in the [tutorials](https://github.com/Youngseok0001/korea-datathon/blob/master/mimiciii_tutorial.ipynb) folder as well), which is a Jupyter notebook hosted in Google Drive, and can be shared with other people for collaboration. It has the most comprehensive examples, including how to train machine learning models on the MIMIC demo dataset with [Tensorflow](https://www.tensorflow.org/).
 
-3. I am also uploading the [answers for today's workshop]().
+3. I am also uploading the [answers for today's workshop](https://github.com/Youngseok0001/korea-datathon/blob/master/mimiciii_tutorial_ans.ipynb).
 
 4. Here are the list of useful links for participants who wants to have clearer understanding on MIMICiii data and SQL syntax.
 * [MIMICiii schema visualisation with SchemaSpy](https://mit-lcp.github.io/mimic-schema-spy/relationships.html)
